@@ -105,7 +105,7 @@
   position: fixed;
   left: 0;
   top: 0;
-  background: url(../images/banner.jpg)no-repeat;
+  background: url(https://cdn.jsdelivr.net/gh/RedWingsss/cdn/image/banner.jpg)no-repeat;
   background-size: 100% 100%;
   z-index: -1;
 }
