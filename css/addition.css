@@ -185,9 +185,16 @@
   background-color: white;
 }
 .avatar {
-  width: 256px;
-  height: 256px;
+  max-height: 256px;
+  max-width: 256px;
   display: block;
+}
+
+.preview_img{
+  width:80%;
+  max-height: 256px;
+  max-width: 256px;
+  margin: 0 auto;
 }
 
 hr {
